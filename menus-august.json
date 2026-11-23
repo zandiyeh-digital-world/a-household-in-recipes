@@ -1,0 +1,188 @@
+{
+  "month": "August",
+  "policy": "Recommended menus printed in the book, not records of meals actually eaten. Family days and servants’ group sizes are independent choices; the book does not pair them as one observed household. Line breaks and typography are normalised. No class, income, family size, meal price or recipe identity is inferred from a menu heading alone.",
+  "familySource": {
+    "section": "3149. Family Dinners for August; 3150. Little Dinners for August",
+    "page": 1407,
+    "archiveLeaf": 1521,
+    "pdfPage": 1517,
+    "scan": "family-menu-scan.png"
+  },
+  "servantsSource": {
+    "section": "3151. Kitchen Dinners for August",
+    "page": 1408,
+    "archiveLeaf": 1522,
+    "pdfPage": 1518,
+    "scan": "servants-menu-scan.png"
+  },
+  "plans": [
+    {
+      "id": "family1",
+      "title": "Family dinners · No. 1",
+      "section": 3149,
+      "description": "The first of two weekly family-menu plans. The heading supplies no diner count or income.",
+      "days": [
+        {
+          "day": "Sunday",
+          "text": "Clear soup.—Roast lamb, peas, potatoes, mint sauce.—Fruit tart, custard, jelly.—Cheese, &c.",
+          "evidence": "No reuse is explicitly identified in this day’s wording."
+        },
+        {
+          "day": "Monday",
+          "text": "Tapioca soup.—Beef rissoles, cold lamb, salad, potatoes.—Lemon pudding.",
+          "evidence": "Cold lamb is explicitly listed. Its origin is not specified; Sunday’s roast lamb is a possible connection, not a stated transfer."
+        },
+        {
+          "day": "Tuesday",
+          "text": "Fried soles.—Stewed sweetbreads, rumpsteak, potatoes, French beans.—Stewed fruit, boiled rice.",
+          "evidence": "No reuse is explicitly identified in this day’s wording."
+        },
+        {
+          "day": "Wednesday",
+          "text": "Macaroni soup.—Roast sirloin of beef, potatoes, peas, horse-radish sauce, Yorkshire pudding.—Pastry sandwiches, blancmange.",
+          "evidence": "No reuse is explicitly identified in this day’s wording."
+        },
+        {
+          "day": "Thursday",
+          "text": "Turbot, Dutch sauce.—Veal cutlets, cold beef, beetroot, mashed potatoes.—Sweet omelette.",
+          "evidence": "Cold beef is listed; a particular earlier joint is not explicitly identified."
+        },
+        {
+          "day": "Friday",
+          "text": "Soup.—Lamb cutlets, cold beef, salad, potatoes.—Fruit tart, cream.",
+          "evidence": "Cold beef is listed. The quantities remaining and number of diners are not recorded."
+        },
+        {
+          "day": "Saturday",
+          "text": "Turbot à la crême from remains of cold turbot.—Loin of mutton, rolled and stuffed, boiled batter pudding.—Lemon sauce.",
+          "evidence": "The phrase ‘from remains of cold turbot’ explicitly identifies reuse. The connection to Thursday’s turbot is plausible but not expressly stated."
+        }
+      ]
+    },
+    {
+      "id": "family2",
+      "title": "Family dinners · No. 2",
+      "section": 3149,
+      "description": "The second weekly family-menu plan. The book does not label either plan as a particular social class.",
+      "days": [
+        {
+          "day": "Sunday",
+          "text": "Roast quarter of lamb, French beans, potatoes, mint sauce.—Raspberry tart, cream.—Cheese.—Dessert.",
+          "evidence": "A roast quarter of lamb opens the week. Subsequent cold or hashed lamb suggests possible reuse, without an explicit transfer statement."
+        },
+        {
+          "day": "Monday",
+          "text": "Green pea soup.—Cold lamb, mashed potatoes, salad.—Sponge cake pudding.",
+          "evidence": "Cold lamb is explicitly listed, but the text does not say it is Sunday’s joint."
+        },
+        {
+          "day": "Tuesday",
+          "text": "Veal cutlets, hashed lamb, vegetables.—Stewed fruit and tapioca.",
+          "evidence": "Hashed lamb is listed. Its appearance after roast and cold lamb supports a reading of economy across the week, rather than proof about a specific joint."
+        },
+        {
+          "day": "Wednesday",
+          "text": "Boiled salmon, cucumber.—Beefsteak pie, vegetables.—Macaroni cheese.",
+          "evidence": "No reuse is explicitly identified in this day’s wording."
+        },
+        {
+          "day": "Thursday",
+          "text": "Boiled beef, carrots, potatoes, small suet dumplings.—Baked ground rice pudding with preserve.",
+          "evidence": "Boiled beef appears before Friday’s cold beef and Saturday’s beef liquor; the sequence permits, but does not prove, connections."
+        },
+        {
+          "day": "Friday",
+          "text": "Boiled soles, parsley and butter.—Cold beef, mashed potatoes, pickles.—Plum pudding.",
+          "evidence": "Cold beef is explicitly listed; its origin is not identified."
+        },
+        {
+          "day": "Saturday",
+          "text": "Soup made from liquor from beef, haricot mutton, minced beef.—Ginger-bread pudding.",
+          "evidence": "Soup made from beef liquor explicitly reuses a cooking liquid. No source joint or exact quantity is stated."
+        }
+      ]
+    },
+    {
+      "id": "little",
+      "title": "Little dinners · “Very economical”",
+      "section": 3150,
+      "description": "‘Very economical’ is the book’s own description. It is not a modern income classification or a price calculation.",
+      "days": [
+        {
+          "day": "Sunday",
+          "text": "Boiled leg of mutton, caper sauce, vegetables.—Fruit tart, baked custard pudding.",
+          "evidence": "Boiled mutton is followed by a mutton-liquor soup on Monday; the menu does not explicitly name the same joint."
+        },
+        {
+          "day": "Monday",
+          "text": "Soup made from liquor from mutton.—Cold meat, cucumber.—Marmalade pudding.",
+          "evidence": "The soup explicitly uses mutton cooking liquor. Cold meat is also listed without naming its origin."
+        },
+        {
+          "day": "Tuesday",
+          "text": "Hashed mutton, potatoes.—Baked bread pudding.",
+          "evidence": "Baked bread pudding is named, but no recipe number is supplied. It cannot securely be identified as Very Plain Bread Pudding, no. 1731."
+        },
+        {
+          "day": "Wednesday",
+          "text": "Roast round of beef, vegetables.—Yorkshire pudding.",
+          "evidence": "Roast beef precedes later cold beef and rissoles, suggesting possible economy across days without an explicit same-joint statement."
+        },
+        {
+          "day": "Thursday",
+          "text": "Lentil soup.—Cold beef, potatoes, salad.—Stewed fruit.",
+          "evidence": "Cold beef is explicitly listed. No particular source joint is identified."
+        },
+        {
+          "day": "Friday",
+          "text": "Salmon shad.—Rissoles of beef.—Savoury macaroni.",
+          "evidence": "The menu names beef rissoles but does not explain whether they use the earlier joint. ‘Salmon shad’ is retained as printed."
+        },
+        {
+          "day": "Saturday",
+          "text": "Fish pie.—Curry from any scraps of cold meat.—Fruit pudding.",
+          "evidence": "‘Any scraps of cold meat’ explicitly makes leftovers a flexible ingredient, without naming their species or origin."
+        }
+      ]
+    }
+  ],
+  "servants": [
+    {
+      "count": 2,
+      "text": "Joint from dining-room, vegetables.—Bread pudding baked.",
+      "evidence": "The joint is explicitly said to come from the dining room. Bread pudding is not linked to a numbered recipe. This menu alone does not show whether the joint was previously served, its quantity, or its quality."
+    },
+    {
+      "count": 4,
+      "text": "Fish pie made from cold fish and potatoes.—Stewed steak and vegetables.",
+      "evidence": "Cold fish is explicitly repurposed in a pie. Stewed steak is also listed; the menu is not described as leftovers only."
+    },
+    {
+      "count": 6,
+      "text": "Vegetable soup.—Beefsteak pudding.—Cheese.",
+      "evidence": "This menu does not explicitly identify leftovers. Its title specifies six servants, not six family members."
+    },
+    {
+      "count": 8,
+      "text": "Roast fillet of veal, bacon, vegetables.—Rice pudding.",
+      "evidence": "Roast veal and bacon are listed without a leftovers qualification. The larger servants’ table includes named roast dishes, rather than an exclusively leftover menu."
+    },
+    {
+      "count": 12,
+      "text": "Roast quarter of lamb, potatoes, beans, mint sauce.—Fruit pudding.",
+      "evidence": "Roast lamb, vegetables and pudding also occur in family recommendations. Similar foods complicate a simple rich-food/poor-food division; portion sizes and actual access are unknown."
+    }
+  ],
+  "highlightPhrases": [
+    "cold lamb",
+    "cold beef",
+    "from remains of cold turbot",
+    "liquor from beef",
+    "liquor from mutton",
+    "Cold meat",
+    "any scraps of cold meat",
+    "Joint from dining-room",
+    "cold fish"
+  ],
+  "verification": "The 21 daily family/little-dinner entries were checked against printed p. 1407; the five servants’ menus against printed p. 1408. Both source images are included. These two leaves have PDF sequence pages 1517–1518, while the downloaded page-number index identifies Archive leaves 1521–1522; printed page and local scan are the primary references. Prices shown lower on p. 1408 belong to the vegetarian menus, not the servants’ meals, and are not attached to this comparison. ‘Salmon shad’ and ‘crême’ are preserved as printed. Course group breaks follow the printed em dashes; ingredient chips and highlights are editorial aids, not additional historical classifications."
+}

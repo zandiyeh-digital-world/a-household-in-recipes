@@ -1,0 +1,74 @@
+{
+  "credit": "Original illustrations from The Book of Household Management, University of Leeds Library copy, Internet Archive b21536193 (catalogued 1899). The item carries a Public Domain Mark.",
+  "method": "Full-page JPEGs rendered from the source PDF without restoration, recolouring or generated content. Two illustration details are cropped from the existing page scans with their printed captions retained. Cropped details are labelled as such; complete source pages remain available. Gallery thumbnails may show only part of a page; the viewer opens the complete supplied image.",
+  "images": [
+    {
+      "id": "menus",
+      "file": "menu-designs.jpg",
+      "title": "Designs for dinner menu cards",
+      "kind": "Original menu designs",
+      "location": "Unnumbered illustration near p. 1350; source PDF page 1461",
+      "pdfPage": 1461,
+      "alt": "Original engraved menu-card designs, including a flower-shaped menu and a sail-shaped card",
+      "caption": "A page of ornamental menu-card designs. These are examples of presentation, not records that the depicted dinners were served.",
+      "crop": false
+    },
+    {
+      "id": "homemade",
+      "file": "homemade-menu-cards.jpg",
+      "title": "Home-made menu cards",
+      "kind": "Original menu designs",
+      "location": "Unnumbered illustration indexed near p. 1351; source PDF page 1458",
+      "pdfPage": 1458,
+      "alt": "Four original home-made menu-card designs arranged as framed cards, an easel and a sailing boat",
+      "caption": "The book presents menu cards as objects that can be made and decorated. Their handwritten-style sample menus are design examples; their dishes are not part of the transcribed recipe collection.",
+      "crop": false
+    },
+    {
+      "id": "pastry",
+      "file": "puddings-pastry.jpg",
+      "title": "Puddings & pastry",
+      "kind": "Original colour plate",
+      "location": "Plate 8, indexed to face p. 804; source PDF page 895",
+      "pdfPage": 895,
+      "alt": "Original colour plate showing tarts, puddings, pastries and a dish labelled Macaroni Cheese",
+      "caption": "A colour plate of prepared dishes, including tarts, puddings and macaroni cheese. It illustrates the book’s visual repertoire; it does not document the appearance of the selected dinner.",
+      "crop": false
+    },
+    {
+      "id": "sweets",
+      "file": "jellies-sweet-dishes.jpg",
+      "title": "Jellies, creams & sweet dishes",
+      "kind": "Original colour plate",
+      "location": "Plate 9, indexed to face p. 931; source PDF page 1026",
+      "pdfPage": 1026,
+      "alt": "Original colour plate showing moulded jellies, creams, trifle, fruit and cakes",
+      "caption": "The labels distinguish jelly of two colours, lemon cream, trifle and other sweets. Lemon cream is not the selected Lemon Jelly recipe, and none of these images is labelled as the selected menu’s Maraschino Jelly.",
+      "crop": false
+    },
+    {
+      "id": "pie",
+      "file": "raised-pie-original.jpg",
+      "title": "Raised pie",
+      "kind": "Original illustration detail",
+      "location": "Printed p. 870, beside recipe 1852; source PDF page 964",
+      "pdfPage": 964,
+      "fullPage": "pie-scan.png",
+      "alt": "Original raised-pie engraving, with decorated pastry sides and the printed caption Raised Pie",
+      "caption": "An illustration printed alongside recipe 1852, Raised Pie of Poultry or Game. This cropped detail retains its printed caption; open the source page to see the recipe and illustration together.",
+      "crop": true
+    },
+    {
+      "id": "mould",
+      "file": "jelly-mould-original.jpg",
+      "title": "Oval jelly-mould",
+      "kind": "Original equipment detail",
+      "location": "Printed p. 938, within recipe 2006; source PDF page 1036",
+      "pdfPage": 1036,
+      "fullPage": "liqueur-jelly-recipe-scan.png",
+      "alt": "Original engraving of an oval jelly mould, with its printed caption",
+      "caption": "A mould illustrated within Liqueur Jelly, recipe 2006, the recipe referenced by the selected Maraschino Jelly menu entry. This is equipment, not a picture of finished Lemon Jelly.",
+      "crop": true
+    }
+  ]
+}

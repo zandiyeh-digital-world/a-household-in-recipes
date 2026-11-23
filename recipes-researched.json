@@ -1,0 +1,274 @@
+{
+  "project": "A Household in Recipes",
+  "researchDate": "2026-11-06",
+  "edition": "Internet Archive b21536193; catalogued as 1899. Preface dated November 1888. Prices are estimates printed in this copy, not independently observed 1899 transactions.",
+  "transcriptionPolicy": "Reading transcriptions checked against the scanned pages. Paragraphs and line breaks are normalised; line-end word divisions are joined; typographic fractions are rendered as Unicode fractions. Square brackets mark editorial reconstructions at the faded or cropped outer margin. No wording has been silently borrowed from another edition. These are historical documents, not modern cooking instructions.",
+  "sources": [
+    {
+      "id": "book",
+      "title": "The Book of Household Management, Internet Archive b21536193",
+      "url": "https://archive.org/details/b21536193",
+      "use": "Primary source for all three recipes. University of Leeds Library copy; Internet Archive catalogue date 1899; Public Domain Mark. Recipe numbering belongs to this copy."
+    },
+    {
+      "id": "preface",
+      "title": "Preface to New Edition, p. viii",
+      "url": "https://archive.org/details/b21536193/page/n10/mode/1up",
+      "scan": "preface-scan.png",
+      "use": "Dated November 1888. Editors say prices have been altered where necessary. This does not date each individual price revision or establish when the selected recipes first appeared."
+    },
+    {
+      "id": "wages",
+      "title": "Servants’ Wages and income-based staffing recommendations, p. 7, paragraph 17",
+      "url": "https://archive.org/details/b21536193/page/n61/mode/1up",
+      "scan": "wages-scan.png",
+      "use": "Manual’s own prescriptive economic context. It locates the wage quotations in or near London and warns of variation by locality, experience and service. Cook: £20–£30 yearly in the column including tea, sugar and beer, or an allowance; £25–£40 without those items. General servant: £12–£18 in the former column. Cash wages are distinct from total compensation and household income."
+    },
+    {
+      "id": "booth",
+      "title": "LSE Library: What were the poverty maps?",
+      "url": "https://booth.lse.ac.uk/learn-more/what-were-the-poverty-maps",
+      "use": "Independent late-Victorian London context: the map legend describes a poor moderate family as having 18s–21s weekly. LSE explains that the 1898–99 maps were published in 1902–03. These historical categories are not neutral modern classifications, a national wage scale, or evidence of the consumers of these recipes."
+    },
+    {
+      "id": "shibden",
+      "title": "MyLearning: The Victorian Servant — Who Were the Servants?",
+      "url": "https://www.mylearning.org/stories/the-victorian-servant/who-were-the-servants",
+      "use": "Shibden Hall case study: live-in servants received lodgings; duties and staffing depended on the household. This supports distinguishing cash pay from living resources. It does not establish staffing for an anonymous Beeton reader."
+    },
+    {
+      "id": "cook",
+      "title": "MyLearning: The Victorian Servant — The Cook",
+      "url": "https://www.mylearning.org/stories/the-victorian-servant/the-cook",
+      "use": "The Shibden account describes the cook’s cleaning duties as well as food preparation, and explains that assistants and duties varied with establishment size. It helps frame labour beyond the recipe’s stated cooking time; it does not prove that Shibden served these dishes."
+    },
+    {
+      "id": "currency",
+      "title": "Bank of England: Shillings to pounds converter",
+      "url": "https://www.bankofengland.co.uk/education/education-resources/shillings-to-pounds-converter",
+      "use": "Currency arithmetic only: £1 = 20 shillings = 240 old pence; 1 shilling = 12 old pence. No modern purchasing-power equivalence is asserted."
+    },
+    {
+      "id": "mould",
+      "title": "Isabella Beeton, The Book of Household Management, consulted copy catalogued 1899, p.797",
+      "url": "https://archive.org/details/b21536193/page/n887/mode/1up",
+      "scan": "raised-pie-mould-p797.jpg",
+      "use": "The reference points to printed p.797: two illustrations below paragraph 1670 show the raised-pie mould assembled and open. Paragraph 1670 itself concerns testing oven heat; it is not a mould-making instruction. Original page image visually checked 5 November 2026. This establishes an illustrated tool, not ownership, material or a purchase."
+    }
+  ],
+  "incomeContext": [
+    {
+      "income": "£150 or £200 a year",
+      "staff": "General servant, or girl for rough work"
+    },
+    {
+      "income": "About £300 a year",
+      "staff": "General servant, and boy for knives, etc."
+    },
+    {
+      "income": "About £500 a year",
+      "staff": "Cook, housemaid, and foot-boy"
+    },
+    {
+      "income": "About £750 a year",
+      "staff": "Cook, housemaid, and parlour maid"
+    },
+    {
+      "income": "About £1,000 a year",
+      "staff": "Cook, upper and under housemaid, man-servant"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "1731",
+      "name": "Very Plain Bread Pudding",
+      "page": 824,
+      "leaf": 916,
+      "scan": "bread-scan.png",
+      "type": "Sweet",
+      "lens": "economy",
+      "label": "Reuse & household economy",
+      "art": "bread",
+      "summary": "Sixpence, excluding the bread: what does the price of thrift leave out?",
+      "question": "When leftovers become a dish, what counts as its cost?",
+      "ingredients": [
+        "Bread",
+        "Salt",
+        "Nutmeg",
+        "Sugar",
+        "Currants",
+        "Butter",
+        "Water",
+        "Milk (optional)"
+      ],
+      "ingredientText": "Odd pieces of crust or crumb of bread: to every [quart] allow ½ teaspoonful of salt, 1 teaspoonful of grated nutmeg, 3 oz. of [moist] sugar, ½ lb. of currants, 1½ oz. of butter.",
+      "methodText": "Break the bread into small pieces, and pour on them as [much] boiling water as will soak them well. Let these stand till the water [is quite] cool; then press it out, and mash the bread with a fork until it [is] quite free from lumps. Measure this pulp, and to every quart stir [in the] salt, nutmeg, sugar and currants in the above proportion; mix all [well] together and put it into a well-buttered pie-dish. Smooth the [surface] with the back of a spoon, and place the butter in small pieces over [the] top, bake in a moderate oven for an hour and a half, and serve very [hot.] Boiling milk substituted for the boiling water would very much [improve] this pudding.",
+      "timeText": "1½ hour.",
+      "costText": "6d., exclusive of the bread.",
+      "costPence": 6,
+      "yieldText": "Sufficient for 6 or 7 persons.",
+      "seasonText": "Seasonable at any time.",
+      "verification": "Recipe number, page, fractions, 90-minute baking time, yield and cost qualification checked against the scan. The right outer margin is faded/cropped. Bracketed words are editorial reconstructions, not fully legible readings; retain them until a clearer image of this edition is found.",
+      "steps": [
+        "Soak odd pieces of bread in boiling water; allow to cool.",
+        "Press out the water, mash, measure and mix in the additions.",
+        "Butter the dish and bake for 1½ hours; serve hot."
+      ],
+      "sourceEvidence": [
+        "The recipe explicitly reuses odd crusts or crumbs.",
+        "It prices the pudding at 6d. excluding the bread, for six or seven people.",
+        "Milk is proposed as an improvement on water. The recipe contains currants, nutmeg, sugar and butter even in its plain form."
+      ],
+      "interpretation": "This is direct evidence of an ideal of household thrift and of accounting that treats existing bread differently from new purchases. It is not proof of working-class consumption. The optional milk also makes visible a choice between a cheaper base and an enriched version, though the price of that substitution is not supplied.",
+      "classAssessment": "Class unassigned. Economy and reuse are explicit; the actual consumer’s occupation, income and social position are unknown.",
+      "preparerAssessment": "Unknown. The soaking, pressing, mashing and oven tending could be performed by a household member or paid worker; the recipe does not identify one.",
+      "labour": "Ninety minutes is the stated baking time, not a measurement of total labour. Cooling, preparation, heating the oven, fuel use and cleaning are not separately costed or timed.",
+      "access": "Sixpence is an incomplete dish cost: bread is explicitly excluded. Do not label it free food, a complete meal, or an observed purchase. The printed estimate does not separately identify fuel, equipment or labour charges.",
+      "income": "No recipe-specific income evidence. Read with the manual’s staffing scale on p. 7, not as a dish assigned to one income band.",
+      "researchNext": [
+        "Verification scope: a clearer image from the same edition for bracketed outer-margin readings.",
+        "Verification scope: dated menus or household accounts distinguishing existing bread from newly purchased bread.",
+        "Verification scope: the oven’s heat source and whether its fuel supported several dishes."
+      ],
+      "sourceIds": [
+        "book",
+        "preface",
+        "wages",
+        "cook",
+        "currency"
+      ]
+    },
+    {
+      "id": "1852",
+      "name": "Raised Pie of Poultry or Game",
+      "page": 870,
+      "leaf": 964,
+      "scan": "pie-scan.png",
+      "type": "Savoury",
+      "lens": "labour",
+      "label": "Skill, equipment & display",
+      "art": "pie",
+      "summary": "A boned bird, layered meats and four hours in the oven: whose skill made the display?",
+      "question": "How does a decorated pie turn domestic work into a visible achievement?",
+      "frenchTitle": "Pâté froid de Gibier—de Volaille.",
+      "ingredients": [
+        "Flour",
+        "Butter",
+        "Water",
+        "Egg yolks",
+        "Salt",
+        "Fowl or pheasant",
+        "Veal",
+        "Ham",
+        "Forcemeat",
+        "Nutmeg",
+        "Allspice",
+        "Pepper",
+        "Gravy",
+        "Mace (method)",
+        "Truffles (optional)",
+        "Mushrooms (optional)",
+        "Bacon (optional)"
+      ],
+      "ingredientText": "To every lb. of flour allow ½ lb. of butter, ½ pint [of] water, the yolks of 2 eggs, ½ teaspoonful of salt (these are for the [crust]); 1 large fowl or pheasant, a few slices of veal cutlet, a few slices of [dressed] ham, forcemeat, seasoning of nutmeg, allspice, pepper and salt, gravy.",
+      "methodText": "Make a stiff short-crust with the above proportion of [butter,] flour, water, and eggs, and work it up very smoothly; butter a raised-[pie] mould, as shown in No. 1670, and line it with the paste. Previously [to] making the crust, bone the fowl, or whatever bird is intended to be [used]; lay it, breast downwards, upon a cloth, and season the inside well [with] pounded mace, allspice, pepper, and salt; then spread over it a layer [of] forcemeat, then a layer of seasoned veal, and then one of ham, and [then] another layer of forcemeat, and roll the fowl over, making the skin [meet] at the back. Line the pie with forcemeat, put in the fowl, and fill up [the] cavities with slices of seasoned veal [and] ham and forcemeat; wet the edges of [the] pie, put on the cover, pinch the [edges] together with the paste-pincers, and [decorate] it with leaves; brush it over with beaten [yolk] of egg, and bake in a moderate oven [for] 4 hours. In the meantime, make a good strong gravy from the bones, pour it through a funnel into the hole at the top; cover this hole with a small leaf, and the pie, when cold, will be ready for use. Let it be remembered that the gravy must be considerably reduced before it is poured into the pie, as, when cold, it should form a firm jelly, and not be the least degree in a liquid state. The recipe is suitable for all kinds of poultry or game, using one or more birds, according to the size of the pie intended to be made; but the birds must always be boned. Truffles, mushrooms, &c., added to this pie, make it much nicer; and, to enrich it, lard the fleshy parts of the poultry or game with thin strips of bacon. This method of forming raised pies in a mould is generally called a timbale, and has the advantage of being more easily made than one where the paste is raised by the hands; the crust, besides, being eatable.",
+      "timeText": "Large pie, 4 hours.",
+      "costText": "5s. 6d.",
+      "costPence": 66,
+      "yieldText": "No fixed number of diners is given; the recipe allows one or more birds according to pie size.",
+      "seasonText": "Seasonable, with poultry, all the year; with game, from September to March.",
+      "verification": "Recipe number, p. 870, crust ratios, 4 hours and 5s. 6d. checked against scan. Brackets restore faded/cropped outer-margin words. Nutmeg appears in the ingredient list, mace in the method: the discrepancy is preserved. No quantity is supplied for forcemeat or gravy. The reference points to printed p.797: two illustrations below paragraph 1670 show the raised-pie mould assembled and open. Paragraph 1670 itself concerns testing oven heat; it is not a mould-making instruction. Page image checked 5 November 2026.",
+      "steps": [
+        "Bone the bird; make pastry and line a buttered raised-pie mould.",
+        "Layer forcemeat, veal and ham; assemble and decorate the pie.",
+        "Bake for 4 hours; meanwhile reduce a gravy from the bones.",
+        "Add the gravy through a funnel and allow it to set as jelly while the pie cools."
+      ],
+      "sourceEvidence": [
+        "The method requires boning, pastry work, layering, decoration and reduced gravy.",
+        "The printed cost is 5s. 6d.; a large pie is given four hours. No fixed serving count is supplied.",
+        "A mould, paste-pincers, funnel and oven are named. Truffles, mushrooms and bacon are optional enrichments.",
+        "The reference points to printed p.797: two illustrations below paragraph 1670 show the raised-pie mould assembled and open. Paragraph 1670 itself concerns testing oven heat; it is not a mould-making instruction."
+      ],
+      "interpretation": "Layered meats, decoration and specialist operations make skilled culinary display central to this recipe. They establish resource-intensive preparation, without identifying actual diners, an upper-class monopoly or the employment of a professional cook. The manual describes moulding as easier than raising the pastry by hand.",
+      "classAssessment": "Possible association with resource-intensive entertaining is a curatorial hypothesis. Actual class and household income remain unassigned.",
+      "preparerAssessment": "The operations require skill, but the preparer’s employment is unknown. A cook or household member is possible; an individual wage cannot be attached to this recipe.",
+      "labour": "The four-hour figure describes baking. Boning, forcemeat, pastry, gravy-making and cooling add processes without measured durations; some occur in parallel. Four hours is not a measure of total labour.",
+      "access": "5s. 6d. equals 66 old pence. Bird number and pie size can vary; no defensible per-person price is available. The book does not itemise the cost of optional enrichments, utensils, fuel or labour here.",
+      "income": "For context, p. 7 recommends a cook, housemaid and foot-boy for about £500 annual household income. This is a staffing recommendation, not evidence that £500 households served this pie.",
+      "researchNext": [
+        "Resolved reference: the mould is illustrated assembled and open on p.797 below paragraph 1670.",
+        "Verification scope: a dated menu or account identifying this pie or a securely comparable dish.",
+        "Verification scope: the components of forcemeat and gravy for any complete ingredient-cost calculation.",
+        "Verification scope: dated makers’ catalogues and household inventories for ownership and acquisition costs."
+      ],
+      "sourceIds": [
+        "book",
+        "preface",
+        "wages",
+        "cook",
+        "shibden",
+        "currency",
+        "mould"
+      ]
+    },
+    {
+      "id": "2004",
+      "name": "Lemon Jelly",
+      "page": 937,
+      "leaf": 1035,
+      "scan": "jelly-scan.png",
+      "type": "Sweet",
+      "lens": "display",
+      "label": "Clarity, cooling & presentation",
+      "art": "jelly",
+      "summary": "Sherry, careful straining and optional ice: the infrastructure of an elegant dessert.",
+      "question": "What resources were needed to make a dessert look effortless?",
+      "frenchTitle": "Gelée au Citron.",
+      "ingredients": [
+        "Lemons",
+        "Lump sugar",
+        "Water",
+        "Gelatine",
+        "Sherry"
+      ],
+      "ingredientText": "6 lemons, ¾ lb. lump sugar, 1 pint of water, 1¼ oz. of gelatine, ¼ pint of sherry.",
+      "methodText": "Peel three of the lemons, pour half a pint of boiling water on the rind, and let it infuse for half an hour; put the sugar, gelatine, and half a pint of water into a lined saucepan, simmer these ingredients for 10 minutes; then put in the strained lemon juice, the strained infusion of rind, and bring the whole to the point of boiling; skim well, add the wine, and run the jelly through a bag; pour it into a mould that has been wetted or soaked in water; put it in ice, if convenient, where let it remain until required for table. Previously to adding the lemon-juice to the other ingredients, ascertain that it is very nicely strained, as, if this is not properly attended to, it is liable to make the jelly thick and muddy. As this jelly is very pale, and almost colourless, it answers very well for moulding with a jelly of any bright hue; for instance, half a jelly bright red, and the other half made of the above, would have a very good effect. Lemon jelly may also be made with patent gelatine, allowing the juice of three lemons to every pint.",
+      "timeText": "Altogether, 1 hour.",
+      "costText": "2s. 2d.",
+      "costPence": 26,
+      "yieldText": "Sufficient to fill 1½-pint mould.",
+      "seasonText": "Seasonable at any time.",
+      "verification": "Recipe number, printed p. 937, all quantities, 1 hour, 2s. 2d. and 1½-pint mould checked against scan. The digital page-number index omits this page label; the printed page number is visible on the scan. No diners count is given. Patent-gelatine alternative is preserved without treating it as a fully specified second recipe.",
+      "steps": [
+        "Infuse the lemon rind for half an hour; simmer sugar, gelatine and water for 10 minutes.",
+        "Strain the juice and infusion, heat, skim and add sherry.",
+        "Filter through a bag into a wetted mould; cool, using ice if convenient.",
+        "Optionally combine with a brightly coloured jelly for presentation."
+      ],
+      "sourceEvidence": [
+        "The recipe uses six lemons, sugar, gelatine and sherry, with a printed estimate of 2s. 2d.",
+        "A lined saucepan, straining bag and mould are required by the method; ice is expressly conditional, not mandatory.",
+        "Clarity and two-colour moulding are explicit aesthetic concerns. Yield is a 1½-pint mould, not a specified number of diners."
+      ],
+      "interpretation": "Repeated filtering and the suggested colour contrast make appearance an explicit objective of preparation. Ice is optional, while sherry and commercial gelatine are specified ingredients. The recipe establishes neither an exclusively wealthy audience nor a particular trade origin for these ingredients.",
+      "classAssessment": "Decorative presentation is explicit; an exclusive upper-class association is not established. Actual consumers and income are unknown.",
+      "preparerAssessment": "Unknown. Straining, skimming and moulding show work and skill, but do not identify whether the worker was paid.",
+      "labour": "The book states one hour altogether, but also directs the cook to leave the mould until required. Setting and cooling have no measured duration, so the printed hour is not a verified ready-to-eat time.",
+      "access": "2s. 2d. equals 26 old pence for the recipe’s mould yield. No per-person price can be calculated without an assumed portion size. Ice is optional; possession of an ice-house cannot be inferred.",
+      "income": "No income is attached to the dish. The manual’s £20–£30 annual cook’s cash-wage range with specified allowances is contextual, not a measure of the consumer’s budget or the worker’s total resources.",
+      "researchNext": [
+        "Verification scope: local ice supply, commercial gelatine and mould prices for a defined date and place.",
+        "Verification scope: household purchases of sherry or gelatine and menus recording jelly service.",
+        "Verification scope: dated supplier and customs evidence for ingredient trade histories."
+      ],
+      "sourceIds": [
+        "book",
+        "preface",
+        "wages",
+        "cook",
+        "currency"
+      ]
+    }
+  ]
+}

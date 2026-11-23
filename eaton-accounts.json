@@ -1,0 +1,100 @@
+{
+  "version": "0.13",
+  "checked": "2026-11-05",
+  "author": "Cora Smith Eaton, treasurer, Washington Equal Suffrage Association",
+  "archive": "Washington State Library, Emma Smith DeVoe papers, WSL Manuscripts, MS 171, Box 2; digitised in Washington State Women’s History Consortium, collection devoe, parent item 14928 (Letters from Cora Smith Eaton).",
+  "reports": [
+    {
+      "id": "eaton1909",
+      "title": "Treasurer’s Report for the year beginning Oct.2,1908 and ending June 16, 1909",
+      "date": "1909-06-16",
+      "pages": [
+        {
+          "id": 14744,
+          "identifier": "SL_devoe_000951.jpg",
+          "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14744"
+        }
+      ],
+      "inspected": "Complete page image, visually checked",
+      "cookbookSalesReceiptsCents": 36600,
+      "cookbookDisbursementsCents": 76946
+    },
+    {
+      "id": "eaton1910",
+      "title": "Treasurer’s Report, Not Final, but brought up to Nov. 30th, 1910",
+      "date": "1910-11-30",
+      "pages": [
+        {
+          "id": 14797,
+          "identifier": "SL_devoe_001020.jpg",
+          "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14797"
+        },
+        {
+          "id": 14798,
+          "identifier": "SL_devoe_001021.jpg",
+          "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14798"
+        }
+      ],
+      "inspected": "Both page images, visually checked",
+      "cookbookSalesCurrentPeriodCents": 63570,
+      "cookbookSalesPriorPeriodCents": 36600,
+      "cookbookSalesCumulativeCents": 100170,
+      "summaryCostFor3000Cents": 134970,
+      "summarySpecialDonationsCents": 34800,
+      "disbursementPageTotalCostCents": 135426,
+      "limit": "Explicitly not final. Summary and disbursement page give different cost totals; retained as printed, not silently reconciled."
+    },
+    {
+      "id": "eaton1911",
+      "title": "Treasurer’s Report, from June 16th, 1909 to January 10, 1911",
+      "date": "1911-01-10",
+      "pages": [
+        {
+          "page": 1,
+          "id": 14745,
+          "identifier": "SL_devoe_000952.jpg",
+          "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14745"
+        },
+        {
+          "page": 2,
+          "id": 14746,
+          "identifier": "SL_devoe_000953.jpg",
+          "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14746"
+        },
+        {
+          "page": 3,
+          "id": 14747,
+          "identifier": "SL_devoe_000954.jpg",
+          "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14747"
+        },
+        {
+          "page": 4,
+          "id": 14748,
+          "identifier": "SL_devoe_000955.jpg",
+          "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14748"
+        },
+        {
+          "page": 5,
+          "id": 14749,
+          "identifier": "SL_devoe_000956.jpg",
+          "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14749"
+        }
+      ],
+      "inspected": "All five original page images visually checked; cookbook block on manuscript p.4, item 14748",
+      "cookbookBatchStated": 3000,
+      "cookbookCostCents": 135101,
+      "cookbookSalesCurrentPeriodCents": 65170,
+      "cookbookSalesPriorPeriodCents": 36600,
+      "cookbookSalesCumulativeCents": 101770,
+      "cookbookDeficitCoveredBySpecialDonationsCents": 33331,
+      "copiesSold": null,
+      "equation": "135101 - 101770 = 33331 historical US cents",
+      "supportingPages": "p.1/current sales; p.2/current disbursements; p.4/cumulative cookbook summary; p.5/signature and attribution"
+    }
+  ],
+  "finding": "The January summary identifies $1,351.01 as the cost of a 3,000-book batch, not 1,351 copies sold; $333.31 is described as covered by special donations, not still outstanding.",
+  "interpretation": "Sales receipts did not cover the stated batch cost; donations are reported to bridge the difference.",
+  "limit": "The inspected reports do not state copies sold. Receipts cannot be divided by an assumed uniform price to reconstruct sales, giveaways, discounts, stock or ultimate profit. Exact identity with Williams’s Eaton 1910 citation is unconfirmed without the full bibliography.",
+  "next": "Verification scope: stock and sales registers, later disposal of books, the full Williams bibliography and dated evidence for the 1922 sales assertion.",
+  "rights": "The archive metadata says All Rights Reserved. Inspection images stay in the research folder; websites link to originals and display factual transcriptions and original graphics."
+}

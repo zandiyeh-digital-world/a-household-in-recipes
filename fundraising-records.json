@@ -1,0 +1,84 @@
+{
+  "version": "0.13",
+  "reviewed": "2026-11-05",
+  "currency": "Historical US dollars; no inflation conversion",
+  "boston": [
+    {
+      "event": "December suffrage bazaar",
+      "eventYear": 1886,
+      "amount": 6000,
+      "measure": "Described as cleared, not an itemised net-account reconciliation",
+      "source": "suffragehistory1902",
+      "page": 704,
+      "url": "https://www.gutenberg.org/files/29870/29870-h/29870-h.htm#Page_704"
+    },
+    {
+      "event": "December Boston bazaar, joint American Association and participating states",
+      "eventYear": 1887,
+      "amount": 8000,
+      "qualifier": "nearly",
+      "measure": "Gross receipts",
+      "source": "suffragehistory1902",
+      "page": 705,
+      "url": "https://www.gutenberg.org/files/29870/29870-h/29870-h.htm#Page_705"
+    },
+    {
+      "event": "April Country Store",
+      "eventYear": 1890,
+      "amount": 2346,
+      "measure": "Gross receipts",
+      "source": "suffragehistory1902",
+      "page": 707,
+      "url": "https://www.gutenberg.org/files/29870/29870-h/29870-h.htm#Page_707"
+    }
+  ],
+  "bostonInspection": "Gutenberg transcription: chapter XLV, pp.704–707 and chapter-source footnote303; cross-read against Wikisource transcription. Original page images and underlying event accounts not inspected.",
+  "bostonInterpretation": "Reported event results can be placed beside the two event purposes on Burr’s title page.",
+  "bostonLimit": "No cookbook-specific sale, cost or share of receipts is isolated. Gross receipts and a reported clear return are different measures; do not sum or rank as equivalent profits.",
+  "bostonNext": "Verification scope: event cashbooks and treasurers’ reports distinguishing sales categories, costs and distributions from retrospective totals.",
+  "washington": {
+    "eventPeriod": "1909–1910 campaign",
+    "retrospectiveReport": {
+      "booksPublishedAndSold": 3000,
+      "source": "suffragehistory1922",
+      "page": 677,
+      "url": "https://www.gutenberg.org/files/30051/30051-h/30051-h.htm#Page_677",
+      "inspected": "Gutenberg transcription of p.677 and Washington chapter source note; not original page image"
+    },
+    "scholarlyCounteraccount": {
+      "printedCopies": 3000,
+      "priceDollars": 1,
+      "reportedSold": 1351,
+      "reportedShortfallDollars": 333.31,
+      "source": "williams2017",
+      "page": 91,
+      "url": "https://escholarship.org/content/qt87r6497z/qt87r6497z_noSplash_b7ff45d55a0f3509be1ef2ddb191d12e.pdf",
+      "underlyingCitation": "Eaton 1910 as cited by Williams; original document and exact archival locator not inspected",
+      "inspected": "Search-indexed university PDF excerpt of printed p.91 and repository title/author/date metadata; complete PDF access returned403",
+      "currentAssessment": "The accessible excerpt’s1,351 sold and deficit-after-donations interpretation is not supported by the inspected primary account. Do not use as a sales figure or uncovered loss."
+    },
+    "status": "Financial categories resolved for inspected reports; copies sold unresolved",
+    "interpretation": "The original summary distinguishes a dollar cost from a copy count and states that donations covered the gap.",
+    "limit": "Actual unit sales and the 1922 assertion remain unverified; exact identity with Williams’s Eaton 1910 citation is unknown.",
+    "next": "Verification scope: stock and transaction records and the full secondary bibliography; the origin of the mismatch is not established.",
+    "originalAccountsDataset": "eaton-accounts.json",
+    "verifiedJanuaryAccount": {
+      "date": "1911-01-10",
+      "batchStated": 3000,
+      "costCents": 135101,
+      "salesReceiptsCents": 101770,
+      "deficitCoveredByDonationsCents": 33331,
+      "copiesSold": null,
+      "source": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14748",
+      "inspection": "Original manuscript p.4 visually checked; all five report pages inspected"
+    }
+  },
+  "burrCookbook": {
+    "copiesSold": null,
+    "retailPrice": null,
+    "revenue": null,
+    "productionCosts": null,
+    "netProceeds": null,
+    "status": "Still not established in inspected sources; event totals are not substitutes"
+  }
+}

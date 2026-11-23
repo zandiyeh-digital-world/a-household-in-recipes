@@ -1,0 +1,9 @@
+/* Reciprocal reading paths between the two independent exhibitions. */
+.companion-exhibition{display:grid;grid-template-columns:minmax(150px,.7fr) minmax(0,2fr);gap:32px;align-items:start;margin:36px 0 48px;padding:28px 0;border-top:2px solid var(--rust,var(--red));border-bottom:1px solid var(--line);color:var(--ink)}
+.project-exhibition .companion-exhibition{margin:36px auto 48px;width:88%;max-width:1300px}
+.companion-exhibition .eyebrow{margin:3px 0 10px}
+body .companion-exhibition h2{font-size:clamp(25px,2.6vw,34px)!important;line-height:1.15;margin:0 0 14px}
+.companion-exhibition p{font-size:16px;line-height:1.7;margin:0 0 14px;max-width:65ch}
+.companion-exhibition .companion-link{display:inline-block;color:var(--rust,var(--red));font-size:15px;text-decoration-thickness:1px;text-underline-offset:5px;padding:8px 0;min-height:44px}
+.companion-exhibition a:focus-visible{outline:3px solid var(--rust,var(--red));outline-offset:5px}
+@media(max-width:650px){.companion-exhibition{grid-template-columns:1fr;gap:10px;margin-top:24px;padding:24px 0}.project-exhibition .companion-exhibition{margin-top:24px}.companion-exhibition .eyebrow{margin-bottom:0}}

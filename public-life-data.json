@@ -1,0 +1,106 @@
+{
+  "version": "0.14",
+  "reviewed": "2026-11-05",
+  "scope": "Washington American comparison, kept separate from British co-operative cases and Burr’s Boston cookbook",
+  "sources": [
+    {
+      "id": "suffragehistory1922",
+      "author": "Ida Husted Harper, editor; Washington chapter material credited to Cora Smith King with collaborators",
+      "title": "History of Woman Suffrage, volume VI",
+      "edition": "New York: National American Woman Suffrage Association, 1922; Gutenberg#30051 transcription",
+      "date": "1922 publication; retrospective account of 1909–1910 campaign",
+      "pages": "677–678; chapter-source note196",
+      "url": "https://www.gutenberg.org/files/30051/30051-h/30051-h.htm#Page_677",
+      "inspected": "Specified transcribed passages; no original page-image check"
+    },
+    {
+      "id": "eaton1911",
+      "author": "Cora Smith Eaton, treasurer, Washington Equal Suffrage Association",
+      "title": "Report of National Convention Expense, 1909, attached to Treasurer’s Report through January10,1911",
+      "edition": "Original typed report; Washington State Library, Emma Smith DeVoe papers, WSL Manuscripts, MS171, Box2; parent14928",
+      "date": "1909 event; attachment consulted in report through1911-01-10",
+      "pages": "Manuscript p.3; CONTENTdm item14747; SL_devoe_000954.jpg",
+      "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14747",
+      "inspected": "Entire original page image visually checked"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "doorstep",
+      "number": "01",
+      "name": "The doorstep",
+      "title": "A book carried into the campaign.",
+      "date": "Washington / campaign of 1909–1910",
+      "evidence": "The later movement history describes personal canvassing and campaign workers carrying packages of cookbooks into the field. It places the publication alongside conversations with neighbours and everyday contacts.",
+      "interpretation": "The cookbook could serve as a portable introduction to a political conversation.",
+      "limit": "A retrospective account of campaign methods. It does not identify every visitor or purchaser, or prove that each conversation included a sale or changed a vote.",
+      "next": "Verification scope: dated canvassers’ letters, route records and cookbook orders.",
+      "source": "suffragehistory1922",
+      "locator": "History of Woman Suffrage, vol.VI (1922), Washington chapter XLVI, p.677; chapter-source note196.",
+      "url": "https://www.gutenberg.org/files/30051/30051-h/30051-h.htm#Page_677",
+      "inspection": "Specified passage reviewed in Gutenberg transcription; original page image not checked.",
+      "object": "Book + conversation",
+      "question": "Who could enter a political conversation through an ordinary visit?"
+    },
+    {
+      "id": "club",
+      "number": "02",
+      "name": "The club meeting",
+      "title": "A menu became a subject for discussion.",
+      "date": "Washington / campaign of 1909–1910",
+      "evidence": "The same chapter reports suffrage-club programmes about food quality and the exhibition and discussion of model menus.",
+      "interpretation": "Knowledge associated with household provision became material for collective discussion.",
+      "limit": "The passage does not name particular meetings, count attendees or reproduce the menus. It does not establish that these programmes used a particular cookbook recipe.",
+      "next": "Verification scope: club minutes, notices, programmes and displayed menus for a named meeting.",
+      "source": "suffragehistory1922",
+      "locator": "History of Woman Suffrage, vol.VI (1922), chapter XLVI, p.677.",
+      "url": "https://www.gutenberg.org/files/30051/30051-h/30051-h.htm#Page_677",
+      "inspection": "Specified passage reviewed in Gutenberg transcription; not a club-minute or original-image check.",
+      "object": "Menu + discussion",
+      "question": "How did practical household knowledge acquire a public audience?"
+    },
+    {
+      "id": "booth",
+      "number": "03",
+      "name": "The fair booth",
+      "title": "Publishing, selling and recruiting met.",
+      "date": "Washington / campaign of 1909–1910",
+      "evidence": "The history describes suffrage booths selling cookbooks, pins and pennants while collecting enrolment signatures. Its discussion then turns to publicity at Seattle’s 1909 Alaska-Yukon-Pacific Exposition.",
+      "interpretation": "A booth brought material goods and opportunities for political participation into one setting.",
+      "limit": "The account does not give transactions, recruitment totals or conversion rates. Do not assign every reported booth practice to the Exposition or treat signatures as votes.",
+      "next": "Verification scope: a booth programme, sales account and enrolment record for the same dated event.",
+      "source": "suffragehistory1922",
+      "locator": "History of Woman Suffrage, vol.VI (1922), chapter XLVI, pp.677–678.",
+      "url": "https://www.gutenberg.org/files/30051/30051-h/30051-h.htm#Page_677",
+      "inspection": "Specified passage reviewed in Gutenberg transcription; no booth account or original-image check.",
+      "object": "Book + badge + enrolment",
+      "question": "When did buying an object become an invitation to join?"
+    },
+    {
+      "id": "table",
+      "number": "04",
+      "name": "The shared table",
+      "title": "Hospitality left an account.",
+      "date": "Washington / national convention expense / 1909",
+      "evidence": "Eaton’s convention-expense statement records a daylight dinner costing $200, ticket receipts of $168 and a stated net cost of $32.",
+      "interpretation": "Shared hospitality required resources as well as organisation. This dinner was a net expense in the reported account, not a demonstrated fundraiser.",
+      "limit": "The statement does not supply the menu, number of diners, ticket price, seating or a record of conversations. It is separate from cookbook sales and the later banquet to DeVoe.",
+      "next": "Verification scope: the convention programme, dinner tickets, catering invoice and attendee records.",
+      "source": "eaton1911",
+      "locator": "Eaton, Treasurer’s Report through 10 January 1911, attached Report of National Convention Expense, 1909, manuscript p.3; item14747, SL_devoe_000954.jpg; WSL Manuscripts, MS171, Box2.",
+      "url": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14747",
+      "inspection": "Entire original page image visually checked; factual dinner lines and arithmetic checked.",
+      "object": "Dinner + tickets + hospitality",
+      "question": "What did it cost to bring people to the same table?"
+    }
+  ],
+  "dinner": {
+    "eventYear": 1909,
+    "costCents": 20000,
+    "ticketReceiptsCents": 16800,
+    "netCostCents": 3200,
+    "units": "Historical US cents",
+    "source": "https://wshs.contentdm.oclc.org/digital/collection/devoe/id/14747"
+  },
+  "visualPolicy": "Original modern schematic line drawings for navigation; not archival images or reconstructions. The scenes are thematic connections, not a proven chronological route or measured flow of money or influence."
+}

@@ -1,0 +1,46 @@
+/* A Household in Recipes: ivory paper, plum ink and rose accents. */
+body, body.floating-theme {
+ --paper:#fcf5ed; --ink:#3b2835; --rust:#914662; --red:#914662;
+ --green:#6b4563; --line:#d8c5cd; --muted:#725e69;
+ --recipe-tint:#f1e2e7; --recipe-surface:#fffaf5;
+ background-color:var(--paper); color:var(--ink);
+}
+body a { color:inherit; }
+body h1 em,body h1 i,body .eyebrow,body .stamp,body .rule,body .missing-label { color:var(--rust); }
+body :focus-visible { outline-color:#914662 !important; }
+body header,body footer,body .public-header,body .public-footer { border-color:var(--line); }
+body.floating-theme .aside,body .selection,body .note,body .method { background:var(--recipe-tint); }
+body.floating-theme .aside { box-shadow:5px 6px 0 #d8bdc655; }
+body.floating-theme dialog,body .vintage-dialog { background:var(--paper); color:var(--ink); box-shadow:0 25px 95px #35203470; }
+body.floating-theme dialog::backdrop,body .vintage-dialog::backdrop { background:#30202dbd; }
+body .fc-cabinet { background:#3d293a; background-image:radial-gradient(ellipse at 50% 42%,#a9769740,transparent 67%); }
+body .fc-topline { border-color:#e7ccdb40; }
+body .fc-topline h2 { color:var(--paper); }
+body .fc-topline p,body .fc-topline .fc-stamp,body .fc-status,body .fc-hint { color:#ead6e2; }
+body .fc-axis { color:#d9bacc99; }
+body .fc-orbit { border-color:#dec2d42b; }
+body .fc-sheet { background:var(--paper); border-color:#e7d4dc; box-shadow:0 3px 0 #d6bdc8,0 5px 0 #f6e8ed,0 7px 0 #b99aa9,0 26px 45px #21122166; }
+body .fc-sheet:after { border-color:var(--line); }
+body .fc-plate,body .fc-art small,body .fc-copy .fc-eyebrow,body .fc-subject { color:var(--muted); }
+body .fc-arrow { border-color:#dbbaca88; }
+body .fc-arrow:hover { background:#ead6e21a; }
+body .fc-rule { background:#dbbaca88; }
+body .fc-filters input,body .fc-filters select,body input,body select { background:var(--recipe-surface); color:var(--ink); border-color:var(--line); }
+body .vintage-item,body .table-card,body .story-panel,body .receipt,body .ledger-main,body .layer,body .sourcebox,body .public-scene { background:var(--recipe-surface); color:var(--ink); border-color:var(--line); }
+body .vintage-item img,body .vintage-image-area,body .original-recipe-image,body .evidence-pair img { background:#f0e5de; border-color:var(--line); }
+body .vintage-item,body .public-scene { box-shadow:3px 5px 0 #bb8fa026; }
+body .vintage-kind,body .vintage-open,body .vintage-credit,body .vintage-description small,body .original-card-caption,body .original-recipe-image figcaption { color:var(--muted); }
+body .vintage-dialog button,body .vintage-description a { color:var(--ink); border-color:var(--line); }
+body .cost-row { border-color:var(--line); }
+body .cost-row:hover { background:#f5e8ed; }
+body .cost-row[aria-pressed=true],body .story-buttons button[aria-pressed=true] { background:var(--recipe-tint); }
+body .row-bar-track { background:#ead8df; }
+body .row-bar { background:#6b4563; }
+body .account-sales { background:#6b4563; color:#fffaf5; }
+body .account-donations { background:#d6a3b1; color:#352330; }
+body .scene-tabs button { color:var(--ink); border-color:var(--line); }
+body .scene-tabs button[aria-selected=true] { background:#603a56; color:#fff7f1; box-shadow:0 10px 20px #35203420; }
+body .scene-drawing { color:#914662; border-color:var(--line); background:repeating-linear-gradient(0deg,transparent,transparent 28px,#b78b9d18 29px); }
+body .scene-number { color:#a8758b; }
+body .scene-caption,body .scene-status { color:var(--muted); }
+body .source-note,body .public-scene details,body .scene-question,body .public-bottom,body .dinner-ledger div { border-color:var(--line); }
